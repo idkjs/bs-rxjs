@@ -40,7 +40,7 @@
     "@bs-rxjs/bs-rx-react": "^0.0.0"
   },
   "devDependencies": {
-    "bs-platform": "^4.0.7",
+    "bs-platform": "^9.0.2",
     "webpack": "^4.26.0",
     "webpack-cli": "^3.1.2"
   }

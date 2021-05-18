@@ -1,0 +1,1 @@
+`yarn && yarn lerna-bootstrap`

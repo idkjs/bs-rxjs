@@ -16,7 +16,7 @@
   "warnings": {
     "error": "+101"
   },
-  "refmt": 3,
+
   "sources": {
     "dir": "src",
     "subdirs": true

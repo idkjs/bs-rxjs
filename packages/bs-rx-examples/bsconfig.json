@@ -19,9 +19,10 @@
   ],
   "bs-dev-dependencies": [],
   "warnings": {
+    "number": "-109",
     "error": "+101"
   },
-  "refmt": 3,
+
   "sources": {
     "dir": "src",
     "subdirs": true
